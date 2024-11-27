@@ -23,7 +23,7 @@
 - 💻 I'm a Python Developer with a passion for web development and LLM development.
 - ⏳ Continuously exploring and learning new technologies.
 - 🚀 Always ready to collaborate for innovative projects and experiments.
-- 👨‍💻 Former freelance Python LLM Developer at Turing.
+- 👨‍💻 Former LLM Python Developer at Turing.
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
 - 🏆 Completed a Web Development Virtual Internship at 1stop and worked as a Chegg Subject Expert.
 - ⚡ Fun fact: I enjoy working on personal projects, including games, banking applications, and e-commerce websites.
